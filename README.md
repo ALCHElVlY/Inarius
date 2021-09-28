@@ -81,14 +81,14 @@ Here are any frameworks/libraries used in the bot's development.
 <!-- Documentation -->
 ## Docs
 
-_See the [Documentation](https://app.gitbook.com/@alchelvly/s/black-spirit-documentation/) for further command details and usage._
+_See the [Documentation](#) for further command details and usage._
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/ALCHElVlY/black-spirit/issues) for a list of known issues, and [project board](https://github.com/ALCHElVlY/black-spirit/projects/1) for a list of planned updates.
+See the [open issues](https://github.com/ALCHElVlY/inarius/issues) for a list of known issues, and [project board](https://github.com/ALCHElVlY/inarius/projects/1) for a list of planned updates.
 
 
 
