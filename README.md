@@ -122,9 +122,9 @@ would have never been thought of, so thanks again PA!!!
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [readme-shield]: https://img.shields.io/badge/readme%20style-standard-blue.svg?style=plastic
-[readme-url]: https://github.com/ALCHElVlY/black-spirit#readme
+[readme-url]: https://github.com/ALCHElVlY/inarius#readme
 [discord-shield]: https://img.shields.io/discord/686731263956090915?color=blue&label=Online%20Discord%20Members&style=plastic
-[version-shield]: https://img.shields.io/github/v/tag/ALCHElVlY/hlna?label=version&style=plastic
-[version-url]: https://github.com/ALCHElVlY/black-spirit/releases
-[issues-shield]: https://img.shields.io/github/issues/ALCHElVlY/black-spirit?color=blue&style=plastic
-[issues-url]: https://github.com/ALCHElVlY/black-spirit/issues
+[version-shield]: https://img.shields.io/github/v/tag/ALCHElVlY/inarius?label=version&style=plastic
+[version-url]: https://github.com/ALCHElVlY/inarius/releases
+[issues-shield]: https://img.shields.io/github/issues/ALCHElVlY/inarius?color=blue&style=plastic
+[issues-url]: https://github.com/ALCHElVlY/inarius/issues
