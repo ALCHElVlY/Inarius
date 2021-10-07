@@ -118,8 +118,8 @@ There are a number of people and aspirations that contributed to this applicatio
 for developing such an amazing video game and for bringing the idea of Black Spirit to my Discord bot project! Without them and the game this idea
 would have never been thought of, so thanks again PA!!!
 
-1. My amazing girlfriend Rey0Sun2187#6979 for pushing me to stick with it
-2. <insert more people>
+1. My amazing girlfriend Rey0Sun2187#6979 for pushing me to stick with it.
+2. teebling#5444 for creating  www.diablo2.io and providing one of the best looking filtereable databases I've seen!
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
