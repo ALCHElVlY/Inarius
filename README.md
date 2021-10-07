@@ -66,6 +66,9 @@
 Hello, and let me first start off by thanking you for taking the time to explore one of my applications. I enjoy video games such as Diablo II: Resurrected, and I love that Discord gives us the ability to organize great communities. I also enjoying programming so it brings me great pleasure to bring a program to other players of the game that will help them in their day to day's by automating as many tasks as humanly possible. I hope the bot project grows so that anyone and everyone playing the game can enjoy it to its fullest.
 
 Inarius comes equipped with the following:
+* Various commands for cube recipes, runewords, item stats, and more!
+* Light-weight moderation modules (authorized links, profanity filter, etc).
+* Fully themed around Diablo lore.
 * 
 
 
