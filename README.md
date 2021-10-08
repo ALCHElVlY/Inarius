@@ -21,7 +21,6 @@
   <h3 align="center">Inarius Discord Companion</h3>
 
   <p align="center">
-    <insert description>.
     <br />
     <a href="https://discord.gg/WqunCan"><strong>« Join the support Discord »</strong></a>
     <br />
