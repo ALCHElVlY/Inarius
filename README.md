@@ -16,7 +16,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="#">
     <img src="https://imgur.com/GH5VnSq.png" alt="Logo" width="220" height="240">
 
   <h3 align="center">Inarius Discord Companion</h3>
