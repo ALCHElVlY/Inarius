@@ -63,12 +63,15 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Hello, and let me first start off by thanking you for taking the time to explore one of my applications. I enjoy video games such as Diablo II: Resurrected, and I love that Discord gives us the ability to organize great communities. I also enjoying programming so it brings me great pleasure to bring a program to other players of the game that will help them in their day to day's by automating as many tasks as humanly possible. I hope the bot project grows so that anyone and everyone playing the game can enjoy it to its fullest.
+Hello, and let me first start off by thanking you for taking the time to explore one of my first JavaScript applications. A little background on my love for Diablo II/Resurrected. I grew up on the game, started playing back in 2005, randomly picked it up from a friend who didn't even know what the game was, and as a result never played it. After my first playthough on singleplayer as a barb, hacking and slashing my way through Act1 normal, I fell in love. Played the game off and on ever since, picking it up again randomly when I was bored and hadn't played for years. Then the news regarding the remake came out, old passions re-ignited! I only recently started getting into programming, small projects, mostly Discord bots so nothing major (yet!), but decided to further my passion and pursue higher education as a Software Developer, my goal is to be a Full Stack Developer. being able to combine both passions of D2R, and programming is truly a blessing, and I hope anyone that give Inarius a try truly enjoys what the bot can bring to your Discord server.
+    - Cheers, Alchemy
 
 Inarius comes equipped with the following:
 * Various commands for cube recipes, runewords, item stats, and more!
 * Light-weight moderation modules (authorized links, profanity filter, etc).
 * Fully themed around Diablo lore.
+* Customizable welcome messages, with a Diablo II themed welcome image.
+* Stay up to date with Diablo II news with its built in RSS feed reader.
 * 
 
 
