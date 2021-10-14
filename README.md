@@ -128,6 +128,6 @@ for developing such an amazing video game that inspired the project! Without the
 [readme-url]: https://github.com/ALCHElVlY/inarius#readme
 [discord-shield]: https://img.shields.io/discord/686731263956090915?color=blue&label=Online%20Discord%20Members&style=plastic
 [version-shield]: https://img.shields.io/github/v/tag/ALCHElVlY/inarius?label=version&style=plastic
-[version-url]: https://github.com/ALCHElVlY/inarius/releases
+[version-url]: https://github.com/main/ALCHElVlY/inarius/releases
 [issues-shield]: https://img.shields.io/github/issues/ALCHElVlY/inarius?color=blue&style=plastic
 [issues-url]: https://github.com/ALCHElVlY/inarius/issues
