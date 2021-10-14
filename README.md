@@ -118,7 +118,7 @@ Twitter: n/a
 There are a number of people and aspirations that contributed to this applications birth. First and foremost I want to thank BLIZZARD ENTERTAINMENT, INC
 for developing such an amazing video game that inspired the project! Without them and the game this idea would have never been thought of, so thanks again blizz!!!
 
-1. My amazing girlfriend Rey0Sun2187#6979 for pushing me to stick with it.
+1. My amazing girlfriend for pushing me to stick with it.
 2. teebling#5444 for creating  www.diablo2.io and providing one of the best looking filtereable databases I've seen!
 
 
