@@ -65,6 +65,7 @@ Hello, and let me first start off by thanking you for taking the time to explore
 
 Inarius comes equipped with the following:
 * Various commands for cube recipes, runewords, item stats, and more!
+* Keep track of Diablo Clone walks and soj's sold
 * Light-weight moderation modules (authorized links, profanity filter, etc).
 * Fully themed around Diablo lore.
 * Customizable welcome messages, with a Diablo II themed welcome image.
