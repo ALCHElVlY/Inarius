@@ -60,8 +60,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Hello, and let me first start off by thanking you for taking the time to explore one of my first JavaScript applications. A little background on my love for Diablo II/Resurrected. I grew up on the game, started playing back in 2005, randomly picked it up from a friend who didn't even know what the game was, and as a result never played it. After my first playthough on singleplayer as a barb, hacking and slashing my way through Act1 normal, I fell in love. Played the game off and on ever since, picking it up again randomly when I was bored and hadn't played for years. Then the news regarding the remake came out, old passions re-ignited! I only recently started getting into programming, small projects, mostly Discord bots so nothing major (yet!), but decided to further my passion and pursue higher education as a Software Developer, my goal is to be a Full Stack Developer. being able to combine both passions of D2R, and programming is truly a blessing, and I hope anyone that gives Inarius a try truly enjoys what the bot can bring to your Discord server.
-    - Cheers, Alchemy
+Inarius was designed around the idea of bringing a Diablo II database right to your Discord. The bot has access to some of D2R's most well built community API's, bringing loads of tools for users to use to interact and communicate with the D2R community. A database for all things related to D2, an API for creating and saving builds, and an API for interacting with trades (buy/sell) using the diablo2marketplace API.
 
 Inarius comes equipped with the following:
 * Various commands for cube recipes, runewords, item stats, and more!
