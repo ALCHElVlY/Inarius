@@ -60,7 +60,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Inarius was designed around the idea of bringing a Diablo II database right to your Discord. The bot has access to some of D2R's most well built community API's, bringing loads of tools for users to use to interact and communicate with the D2R community. Having the bot in your discord allows users to interact with an API for creating and saving character builds, it also allows users to buy/sell items using the D2 marketplace API.
+Inarius was designed around the idea of bringing a Diablo II database right to your Discord. The bot has access to some of D2R's most well built community API's, bringing loads of tools for users to use to interact and communicate with the Diablo II: Resurrected community.
 
 Inarius comes equipped with the following:
 * Various commands for cube recipes, runewords, item stats, and more!
