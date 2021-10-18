@@ -67,8 +67,8 @@ Inarius comes equipped with the following:
 * Keep track of Diablo Clone walks and soj's sold
 * Light-weight moderation modules (authorized links, profanity filter, etc).
 * Fully themed around Diablo lore.
-* Customizable welcome messages, with a Diablo II themed welcome image.
-* Stay up to date with Diablo II news with its built in RSS feed reader.
+* Customizable welcome messages, with a Diablo II themed join/leave image.
+* Stay up to date with Diablo II news & updates with its built in RSS feed reader.
 * 
 
 
