@@ -60,7 +60,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Inarius was designed around the idea of bringing a Diablo II database right to your Discord. The bot has access to some of D2R's most well built community API's, bringing loads of tools for users to use to interact and communicate with the Diablo II: Resurrected community.
+The idea and design that went into making the Inarius Discord bot was that it could bring a Diablo II database to a server, as well as additional moderation modules to help assist the server owner in protecting his/her Discord server. The application has alot to bring to any one Discord, especially for the Diablo II fanatic.
 
 Inarius comes equipped with the following:
 * Various commands for cube recipes, runewords, item stats, and more!
@@ -69,7 +69,6 @@ Inarius comes equipped with the following:
 * Fully themed around Diablo lore.
 * Customizable welcome messages, with a Diablo II themed join/leave image.
 * Stay up to date with Diablo II news & updates with its built in RSS feed reader.
-* 
 
 
 
