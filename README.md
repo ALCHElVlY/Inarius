@@ -84,7 +84,7 @@ Here are any frameworks/libraries used in the bot's development.
 <!-- Documentation -->
 ## Docs
 
-_See the [Documentation](#) for further command details and usage._
+_See the [Documentation](#) for further command details and usage, setup and customization._
 
 
 
