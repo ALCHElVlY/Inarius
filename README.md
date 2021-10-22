@@ -91,7 +91,7 @@ _See the [Documentation](#) for setup and customization, as well as command deta
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/ALCHElVlY/inarius/issues) for a list of known issues, and [project board](https://github.com/ALCHElVlY/inarius/projects/1) for a list of planned updates.
+See the [open issues](https://github.com/ALCHElVlY/inarius/issues) for a list of known issues, and [project board](https://github.com/ALCHElVlY/inarius/projects/1) for a list of planned updates, and features.
 
 
 
