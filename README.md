@@ -60,7 +60,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-The idea and design that went into making the Inarius Discord bot was that it could bring a Diablo II database to a server, as well as additional moderation modules to help assist the server owner in protecting his/her Discord. The application has alot to bring to any one Discord, especially for the Diablo II fanatic.
+The idea and design that went into making the Inarius Discord bot was that it could bring a Diablo II database to a Discord server, as well as additional moderation modules to help assist the server owner in protecting it from scammers, and spam bots. The application has alot to bring to any one Discord, especially for the Diablo II fanatic.
 
 Inarius comes equipped with the following:
 * Various commands for cube recipes, runewords, item stats, and more!
