@@ -69,6 +69,7 @@ Inarius comes equipped with the following:
 * Fully themed around Diablo lore.
 * Customizable welcome messages, with a Diablo II themed join/leave image.
 * Stay up to date with Diablo II news & updates with its built in RSS feed reader.
+* Has useful API integrations for everything your Diablo II: Resurrected Discord server could ever ask for!
 
 
 
