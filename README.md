@@ -111,7 +111,7 @@ Twitter: n/a
 There are a number of people and aspirations that contributed to this applications birth. First and foremost I want to thank BLIZZARD ENTERTAINMENT, INC
 for developing such an amazing video game that inspired the project! Without them and the game this idea would have never been thought of, so thanks again blizz!!!
 
-2. teebling#5444 for creating  [diablo2.io][issues-url] and providing one of the best looking filtereable databases on the web.
+2. teebling#5444 for creating  [diablo2.io][d2io-url] and providing one of the best looking filtereable databases on the web.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
