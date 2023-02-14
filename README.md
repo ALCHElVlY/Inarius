@@ -65,7 +65,6 @@ The idea and design that went into making the Inarius Discord bot was that it co
 Inarius comes equipped with the following:
 * Various commands for cube recipes, runewords, item stats, and more!
 * Keep track of Diablo Clone walks and soj's sold
-* Light-weight moderation modules (authorized links, profanity filter, etc).
 * Fully themed around Diablo lore.
 * Customizable welcome messages, with a Diablo II themed join/leave image.
 * Stay up to date with Diablo II news & updates with its built in RSS feed reader.
