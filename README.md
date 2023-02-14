@@ -95,13 +95,6 @@ See the [open issues](https://github.com/ALCHElVlY/inarius/issues) for a list of
 
 
 
-<!-- LICENSE -->
-## License
-
-No license, this is a private project. Currently not open source.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -111,14 +104,14 @@ Facebook: n/a<br>
 Twitter: n/a
 
 
+
 <!-- ACKNOWLEDGEMENTS -->
 ## ACKNOWLEDGEMENTS
 
 There are a number of people and aspirations that contributed to this applications birth. First and foremost I want to thank BLIZZARD ENTERTAINMENT, INC
 for developing such an amazing video game that inspired the project! Without them and the game this idea would have never been thought of, so thanks again blizz!!!
 
-1. My amazing girlfriend for pushing me to stick with it.
-2. teebling#5444 for creating  www.diablo2.io and providing one of the best looking filtereable databases I've seen!
+2. teebling#5444 for creating  [diablo2.io][issues-url] and providing one of the best looking filtereable databases on the web.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -130,3 +123,4 @@ for developing such an amazing video game that inspired the project! Without the
 [version-url]: https://github.com/main/ALCHElVlY/inarius/releases
 [issues-shield]: https://img.shields.io/github/issues/ALCHElVlY/inarius?color=blue&style=plastic
 [issues-url]: https://github.com/ALCHElVlY/inarius/issues
+[d2io-url]: https://diablo2.io/
