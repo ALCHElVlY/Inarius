@@ -21,12 +21,6 @@
   <h3 align="center">Inarius Discord Companion</h3>
 
   <p align="center">
-    <br />
-    <a href="https://discord.gg/WqunCan"><strong>« Join the support Discord »</strong></a>
-    <br />
-    <br />
-    <!-- <a href="https://github.com/othneildrew/Best-README-Template">Invite the Bot</a> -->
-    ·
     <a href="https://github.com/ALCHElVlY/inarius/issues">Report Bug</a>
     ·
     <a href="https://github.com/ALCHElVlY/inarius/issues">Request Feature</a>
@@ -47,7 +41,6 @@
     </li>
     <li><a href="#docs">Documentation</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -60,30 +53,44 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-The idea and design that went into making the Inarius Discord bot was that it could bring a Diablo II database to a Discord server, as well as additional moderation modules to help assist the server owner in protecting it from scammers, and spam bots. The application has alot to bring to any one Discord, especially for the Diablo II fanatic.
+<p>
+    Inarius is every Diablo fans dream. The Discord bot is meant to bring everything Diablo related straight to Discord. The bot will offer modules
+    for various Diablo titles that come with their respective commands, allow for easy integration into the Diablo Market web application API for trade
+    related data, as well as allow Discord users to stay up-to-date on the latest news and information posted by Blizzard INC.
+</p>
 
-Inarius comes equipped with the following:
-* Various commands for cube recipes, runewords, item stats, and more!
-* Keep track of Diablo Clone walks and soj's sold
-* Fully themed around Diablo lore.
-* Customizable welcome messages, with a Diablo II themed join/leave image.
-* Stay up to date with Diablo II news & updates with its built in RSS feed reader.
-* Has useful API integrations for everything your Diablo II: Resurrected Discord server could ever ask for!
-
+<p>Diablo II: Resurrected Module commands:</p>
+<ul>
+    <li>miscitems</li>
+    <li>sets</li>
+    <li>uniques</li>
+    <li>runes</li>
+    <li>runewords</li>
+    <li>recipes</li>
+</ul>
+    
+<p>Diablo III Module commands: `TBA`</p>
+    
+<p>Diablo IV Module commands:</p>
+<ul>
+    <li>aspects</li>
+    <li>paragon</li>
+</ul>
 
 
 ## Built With
 
-Here are any frameworks/libraries used in the bot's development.
-* [Node.JS](https://nodejs.org/en/)
-* [Discord.JS](https://discord.js.org/#/)
+<p>
+    The Inarius Discord bot was built using Discord.Net, and Microsoft's .NET tech stack. Leveraging some of the
+    most modern technologies that together bring you a seamless Diablo experience straight to your Discord server.
+</p>
 
 
 
 <!-- Documentation -->
 ## Docs
 
-_See the [Documentation](#) for setup and customization, as well as command details and usage._
+_Documentation coming soon..._
 
 
 
@@ -113,9 +120,6 @@ Twitter: n/a
         INC for developing such an amazing video game that inspired the project! Without them and the game this idea would have never been thought of,
         so thanks again blizz!!!
     </p>
-    <ol>
-        <li>teebling#5444 for creating  <a href="https://diablo2.io/" target="_blank">diablo2.io</a> and providing one of the best looking filtereable databases on the web.</li>
-    </ol>
 </div>
 
 
@@ -124,7 +128,7 @@ Twitter: n/a
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [readme-shield]: https://img.shields.io/badge/readme%20style-standard-blue.svg?style=plastic
 [readme-url]: https://github.com/ALCHElVlY/inarius#readme
-[discord-shield]: https://img.shields.io/discord/686731263956090915?color=blue&label=Online%20Discord%20Members&style=plastic
+[discord-shield]: https://img.shields.io/discord/1086693147331018852?color=blue&label=Online%20Discord%20Members&style=plastic
 [version-shield]: https://img.shields.io/github/v/tag/ALCHElVlY/inarius?label=version&style=plastic
 [version-url]: https://github.com/main/ALCHElVlY/inarius/releases
 [issues-shield]: https://img.shields.io/github/issues/ALCHElVlY/inarius?color=blue&style=plastic
