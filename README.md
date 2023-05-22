@@ -59,31 +59,36 @@
     related data, as well as allow Discord users to stay up-to-date on the latest news and information posted by Blizzard Entertainment.
 </p>
 
-<p>Diablo II: Resurrected Module commands:</p>
-<ul>
-    <li>miscitems</li>
-    <li>sets</li>
-    <li>uniques</li>
-    <li>runes</li>
-    <li>runewords</li>
-    <li>recipes</li>
-</ul>
+<details>
+    <summary>Diablo II: Resurrected Module commands:</summary>
+    <ul>
+        <li>miscitems</li>
+        <li>sets</li>
+        <li>uniques</li>
+        <li>runes</li>
+        <li>runewords</li>
+        <li>recipes</li>
+    </ul>
+</details>
     
 <p>Diablo III Module commands: <code>TBA</code></p>
     
-<p>Diablo IV Module commands:</p>
-<ul>
-    <li>aspects</li>
-    <li>paragon</li>
-</ul>
+<details>
+    <summary>Diablo IV Module commands:</summary>
+    <ul>
+        <li>aspects</li>
+        <li>paragon</li>
+    </ul>
+</details>
 
 
 ## Built With
 
-<p>
-    The Inarius Discord bot was built using Discord.Net, and Microsoft's .NET tech stack. Leveraging some of the
-    most modern technologies that together bring you a seamless Diablo experience straight to your Discord server.
-</p>
+<div>
+    <img src="https://i.imgur.com/uvs8UyJ.png" alt="Discord.Net" width="18px"> Discord.Net</img>
+    <br>
+    <img src="https://i.imgur.com/F8Bvjbr.png" alt="Microsoft .NET" width="18px"> Microsoft .NET tech stack</img>
+</div>
 
 
 
