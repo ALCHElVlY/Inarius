@@ -56,7 +56,7 @@
 <p>
     Inarius is every Diablo fans dream. The Discord bot is meant to bring everything Diablo related straight to Discord. The bot will offer modules
     for various Diablo titles that come with their respective commands, allow for easy integration into the Diablo Market web application API for trade
-    related data, as well as allow Discord users to stay up-to-date on the latest news and information posted by Blizzard INC.
+    related data, as well as allow Discord users to stay up-to-date on the latest news and information posted by Blizzard Entertainment.
 </p>
 
 <p>Diablo II: Resurrected Module commands:</p>
@@ -116,8 +116,8 @@ Twitter: n/a
 
 <div>
     <p>
-        There are a number of people and aspirations that contributed to this applications birth. First and foremost I want to thank BLIZZARD ENTERTAINMENT,
-        INC for developing such an amazing video game that inspired the project! Without them and the game this idea would have never been thought of,
+        There are a number of people and aspirations that contributed to this applications birth. First and foremost I want to thank BLIZZARD Entertainment
+        for developing such an amazing video game that inspired the project! Without them and the game this idea would have never been thought of,
         so thanks again blizz!!!
     </p>
 </div>
