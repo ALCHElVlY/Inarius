@@ -69,7 +69,7 @@
     <li>recipes</li>
 </ul>
     
-<p>Diablo III Module commands: `TBA`</p>
+<p>Diablo III Module commands: <code>TBA</code></p>
     
 <p>Diablo IV Module commands:</p>
 <ul>
