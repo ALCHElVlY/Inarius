@@ -101,7 +101,7 @@ Twitter: n/a
 
 <div>
     <p>
-        There are a number of people and aspirations that contributed to this applications birth. First and foremost I want to thank BLIZZARD Entertainment
+        There are a number of people and aspirations that contributed to this applications birth. First and foremost I want to thank Blizzard Entertainment
         for developing such an amazing video game that inspired the project! Without them and the game this idea would have never been thought of,
         so thanks again blizz!!!
     </p>
