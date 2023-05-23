@@ -21,9 +21,9 @@
   <h3 align="center">Inarius Discord Companion</h3>
 
   <p align="center">
-    <a href="https://github.com/ALCHElVlY/inarius/issues">Report Bug</a>
+    <a href="https://github.com/ALCHElVlY/Inarius/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ALCHElVlY/inarius/issues">Request Feature</a>
+    <a href="https://github.com/ALCHElVlY/Inarius/issues">Request Feature</a>
   </p>
 </p>
 
@@ -82,7 +82,7 @@ _Documentation coming soon..._
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/ALCHElVlY/inarius/issues) for a list of known issues, and [project board](https://github.com/ALCHElVlY/inarius/projects/1) for a list of planned updates, and features.
+See the [open issues](https://github.com/ALCHElVlY/Inarius/issues) for a list of known issues, and [project board](https://github.com/ALCHElVlY/Inarius/projects/1) for a list of planned updates, and features.
 
 
 
@@ -112,9 +112,9 @@ Twitter: n/a
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [readme-shield]: https://img.shields.io/badge/readme%20style-standard-blue.svg?style=plastic
-[readme-url]: https://github.com/ALCHElVlY/inarius#readme
+[readme-url]: https://github.com/ALCHElVlY/Inarius#readme
 [discord-shield]: https://img.shields.io/discord/1086693147331018852?color=blue&label=Online%20Discord%20Members&style=plastic
-[version-shield]: https://img.shields.io/github/v/tag/ALCHElVlY/inarius?label=version&style=plastic
-[version-url]: https://github.com/main/ALCHElVlY/inarius/releases
-[issues-shield]: https://img.shields.io/github/issues/ALCHElVlY/inarius?color=blue&style=plastic
-[issues-url]: https://github.com/ALCHElVlY/inarius/issues
+[version-shield]: https://img.shields.io/github/v/tag/ALCHElVlY/Inarius?label=version&style=plastic
+[version-url]: https://github.com/main/ALCHElVlY/Inarius/releases
+[issues-shield]: https://img.shields.io/github/Inarius/ALCHElVlY/inarius?color=blue&style=plastic
+[issues-url]: https://github.com/ALCHElVlY/Inarius/issues
