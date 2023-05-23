@@ -6,17 +6,11 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![][readme-shield]][readme-url]
-[![][version-shield]][version-url]
-[![][issues-shield]][issues-url]
-![][discord-shield]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://imgur.com/GH5VnSq.png" alt="Logo" width="220" height="240">
+    <img src="https://i.imgur.com/OxBi8gO.png" alt="Logo">
 
   <h3 align="center">Inarius Discord Companion</h3>
 
@@ -25,6 +19,11 @@
     ·
     <a href="https://github.com/ALCHElVlY/Inarius/issues/new?assignees=ALCHElVlY&labels=feature&projects=&template=feature_request.md&title=%5BFEATURE%5D">Request Feature</a>
   </p>
+  
+[![][readme-shield]][readme-url]
+[![][version-shield]][version-url]
+[![][issues-shield]][issues-url]
+![][discord-shield]
 </p>
 
 
