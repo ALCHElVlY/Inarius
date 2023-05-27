@@ -1,7 +1,7 @@
 ---
 name: Ask A Question
 about: Ask general questions about this project
-title: ''
+title: '[QUESTION]'
 labels: question
 assignees: ALCHElVlY
 
