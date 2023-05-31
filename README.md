@@ -56,7 +56,10 @@
     <summary>Diablo IV Module commands:</summary>
     <ul>
         <li>aspects</li>
-        <li>paragon</li>
+        <li>paragon boards</li>
+        <li>paragon glyphs</li>
+        <li>legendaries</li>
+        <li>crafting</li>
     </ul>
 </details>
 
