@@ -60,6 +60,7 @@
         <li>paragon glyphs</li>
         <li>legendaries</li>
         <li>crafting</li>
+        <li>looking for group (lfg)</li>
     </ul>
 </details>
 
