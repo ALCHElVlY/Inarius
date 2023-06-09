@@ -59,7 +59,7 @@
         <li>paragon boards</li>
         <li>paragon glyphs</li>
         <li>legendaries</li>
-        <li>crafting</li>
+        <li>craft</li>
         <li>looking for group (lfg)</li>
     </ul>
 </details>
