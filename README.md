@@ -33,9 +33,10 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <p>
-    Inarius is every Diablo fans dream. The Discord bot is meant to bring everything Diablo related straight to Discord. The bot will offer modules
+    The Inarius Discord bot project is meant to bring everything Diablo related straight to Discord. The bot will offer modules
     for various Diablo titles that come with their respective commands, allow for easy integration into the Diablo Market web application API for trade
-    related data, as well as allow Discord users to stay up-to-date on the latest news and information posted by Blizzard Entertainment.
+    related data, as well as allow Discord users to stay up-to-date on the latest news and information posted by Blizzard Entertainment. Users can enjoy
+    lightning fast query based searches for Diablo II & IV item data, skills, aspects, etc.
 </p>
 
 <details>
