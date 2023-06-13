@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://i.imgur.com/OxBi8gO.png" alt="Logo">
+    <img src="https://github.com/ALCHElVlY/Inarius/blob/main/.github/Assets/Inarius_Portrait_02.png" alt="Logo">
 
   <h3 align="center">Inarius Discord Companion</h3>
 
