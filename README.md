@@ -59,7 +59,7 @@
         <li>aspects</li>
         <li>paragon boards</li>
         <li>paragon glyphs</li>
-        <li>legendaries</li>
+        <li>uniques</li>
         <li>craft</li>
         <li>looking for group (lfg)</li>
     </ul>
