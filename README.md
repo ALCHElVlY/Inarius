@@ -96,9 +96,9 @@ See the [open issues](https://github.com/ALCHElVlY/Inarius/issues) for a list of
 ## Contact
 
 Email: beskar.labs@outlook.com<br>
-Website: www.beskarlabs.com<br>
+<!-- Website: www.beskarlabs.com<br>
 Facebook: n/a<br>
-Twitter: n/a
+Twitter: n/a-->
 
 
 
