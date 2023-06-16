@@ -65,6 +65,8 @@
     </ul>
 </details>
 
+<p>Diablo Market Module commands: <code>TBA</code></p>
+
 
 ## Built With
 
