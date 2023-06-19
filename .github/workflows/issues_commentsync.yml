@@ -18,14 +18,20 @@ jobs:
           private_repo=$(echo "${{ env.PRIVATE_REPO_NAME }}" | sed 's/"/\\"/g')
           issue_number=$(jq --raw-output '.issue.number' "$GITHUB_EVENT_PATH")
           private_comment=$(jq --raw-output '.comment.body | gsub("\""; "\\\"")' "$GITHUB_EVENT_PATH")
-          results=$(gh --repo "$private_repo" issue comment list "$issue_number" | jq -r '.[].body' | grep -Fx "$private_comment")
-          if [[ -z "$results" ]]; then
-            echo "No comment found in private repository"
-            exit 0
-          fi
-          if [[ -n "$results" ]]; then
+          existing_comments=$(gh --repo "$private_repo" issue comment list "$issue_number" | jq -r '.[].body')
+          duplicate_found=false
+          while IFS= read -r comment; do
+            if [[ "$comment" == "$private_comment" ]]; then
+              duplicate_found=true
+              break
+            fi
+          done <<< "$existing_comments"
+          if [[ "$duplicate_found" == true ]]; then
             echo "Existing comment found in private repository, skipping sync.."
             exit 1
+          else
+            echo "No comment found in private repository"
+            exit 0
           fi
 
   sync_comment:
