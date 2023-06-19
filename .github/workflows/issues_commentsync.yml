@@ -18,7 +18,7 @@ jobs:
           private_repo=$(echo "${{ env.PRIVATE_REPO_NAME }}" | sed 's/"/\\"/g')
           issue_number=$(jq --raw-output '.issue.number' "$GITHUB_EVENT_PATH")
           private_comment=$(jq --raw-output '.comment.body | gsub("\""; "\\\"")' "$GITHUB_EVENT_PATH")
-          results=$(gh --repo "$private_repo" issue comment list --issue $issue_number --json '.[].body' | grep -Fx "$private_comment")
+          results=$(gh --repo "$private_repo" issue comment list $issue_number --json '.[].body' | grep -Fx "$private_comment")
           if [[ -z "$results" ]]; then
             echo "No comment found in private repository"
             exit 0
