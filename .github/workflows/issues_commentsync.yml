@@ -24,4 +24,4 @@ jobs:
           private_url=$(gh api -X GET "repos/${{ env.PRIVATE_REPO_NAME }}/issues?state=open" | jq -r '.[] | select(.title=="'"$public_title"'") | .url')
           private_comment=$(echo "${{ github.event.comment.body }}" | sed 's/"/\\"/g')
           echo "Syncing comment from public to private..."
-          gh api "$private_url/comments" -f body="$private_comment"
+          gh api "$private_url" -f body="$private_comment"
