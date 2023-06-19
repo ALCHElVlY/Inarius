@@ -3,7 +3,7 @@ on:
   issue_comment:
     types: [created]
 jobs:
-  sync:
+  sync_comment:
     runs-on: ubuntu-latest
     env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -16,8 +16,8 @@ jobs:
       - name: Checkout Private Repo
         uses: actions/checkout@v2
         with:
-          repository: ${{ env.GH_TOKEN }}
-          token: ${{ env.PRIVATE_REPO }}
+          repository: ${{ env.PRIVATE_REPO }}
+          token: ${{ env.GH_TOKEN }}
       - name: Sync Public to Private
         run: |
           public_title=$(echo "${{ github.event.issue.title }}" | sed 's/"/\\"/g')
