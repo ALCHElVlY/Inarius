@@ -1,45 +1,13 @@
 name: Sync Issue Comments
-
 on:
   issue_comment:
     types: [created]
-
 jobs:
-  check_duplicate:
+  sync:
     runs-on: ubuntu-latest
     env:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      PRIVATE_REPO_NAME: ${{ secrets.INARIUS_PRIVATE_REPO }}
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      - name: Check for duplicate issues
-        run: |
-          private_repo=$(echo "${{ env.PRIVATE_REPO_NAME }}" | sed 's/"/\\"/g')
-          issue_number=$(jq --raw-output '.issue.number' "$GITHUB_EVENT_PATH")
-          private_comment=$(jq --raw-output '.comment.body | gsub("\""; "\\\"")' "$GITHUB_EVENT_PATH")
-          existing_comments=$(gh --repo "$private_repo" issue comment list "$issue_number" | jq -r '.[].body')
-          duplicate_found=false
-          while IFS= read -r comment; do
-            if [[ "$comment" == "$private_comment" ]]; then
-              duplicate_found=true
-              break
-            fi
-          done <<< "$existing_comments"
-          if [[ "$duplicate_found" == true ]]; then
-            echo "Existing comment found in private repository, skipping sync.."
-            exit 1
-          else
-            echo "No comment found in private repository"
-            exit 0
-          fi
-
-  sync_comment:
-    runs-on: ubuntu-latest
-    needs: check_duplicate
-    env:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      PRIVATE_REPO_NAME: ${{ secrets.INARIUS_PRIVATE_REPO }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        PRIVATE_REPO: ${{ secrets.INARIUS_PRIVATE_REPO }}
     steps:
       - name: Checkout Public Repo
         uses: actions/checkout@v2
@@ -48,12 +16,12 @@ jobs:
       - name: Checkout Private Repo
         uses: actions/checkout@v2
         with:
-          repository: ${{ env.PRIVATE_REPO_NAME }}
-          token: ${{ env.GH_TOKEN }}
+          repository: ${{ env.GH_TOKEN }}
+          token: ${{ secrets.PRIVATE_REPO_ACCESS_TOKEN }}
       - name: Sync Public to Private
         run: |
           public_title=$(echo "${{ github.event.issue.title }}" | sed 's/"/\\"/g')
-          private_issue_number=$(gh api -X GET "repos/${{ env.PRIVATE_REPO_NAME }}/issues?state=open" | jq -r '.[] | select(.title=="'"$public_title"'") | .number')
+          private_url=$(gh api -X GET "repos/${{ env.PRIVATE_REPO }}/issues?state=open" | jq -r '.[] | select(.title=="'"$public_title"'") | .url')
           private_comment=$(echo "${{ github.event.comment.body }}" | sed 's/"/\\"/g')
           echo "Syncing comment from public to private..."
-          gh api "repos/${{ env.PRIVATE_REPO_NAME }}/issues/${private_issue_number}}/comments" --input - <<< "{\"body\":\"$private_comment\"}"
+          gh api "$private_url" -f body="$private_comment"
