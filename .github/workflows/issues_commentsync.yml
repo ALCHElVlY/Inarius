@@ -21,7 +21,7 @@ jobs:
       - name: Sync Public to Private
         run: |
           public_title=$(echo "${{ github.event.issue.title }}" | sed 's/"/\\"/g')
-          private_number=$(gh issue list -R ${{ env.PRIVATE_REPO_NAME }} --state open --search "$public_title" --json number --jq '.[0].number')
+          private_url=$(gh api -X GET "repos/${{ env.PRIVATE_REPO_NAME }}/issues?state=open" | jq -r '.[] | select(.title=="'"$public_title"'") | .url')
           private_comment=$(echo "${{ github.event.comment.body }}" | sed 's/"/\\"/g')
           echo "Syncing comment from public to private..."
-          gh issue comment $private_number -R ${{ env.PRIVATE_REPO_NAME }} -b "$private_comment"
+          gh api "$private_url" -f body="$private_comment"
