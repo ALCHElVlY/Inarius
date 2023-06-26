@@ -79,9 +79,21 @@
 
 
 <!-- Documentation -->
-## Docs
+## Documentation
 
-_Documentation coming soon..._
+<div>
+    <h3>• How to set integration-level slash command permissions</h3>
+    <p>Discord provides server owners a way to layer slash command permissions with roles or even single users.</p>
+    <p>You can achieve this by going into <code>Settings</code> -> <code>Integrations</code> -> <code>Inarius(Manage)</code></p>
+    <img src="https://imgur.com/KY8alQ0.png"></img>
+    <p>On a fresh server, there will be no slash command overrides as seen in the example above.</p>
+    <p>From this menu you can click on a command to update new permissions for it.</p>
+    <img src="https://imgur.com/1yK2Igs.png"></img>
+    <p>After adding your role, or user, click save.</p>
+    <img src="https://imgur.com/S9aBeLS.png"></img>
+    <p>Your screen should look something similar to this.</p>
+    <img src="https://imgur.com/PlUDfIV.png"></img>
+</div>
 
 
 
