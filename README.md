@@ -122,11 +122,10 @@ Twitter: n/a-->
 ## ACKNOWLEDGEMENTS
 
 <div>
-    <p>
-        There are a number of people and aspirations that contributed to this applications birth. First and foremost I want to thank Blizzard Entertainment
-        for developing such an amazing video game that inspired the project! Without them and the game this idea would have never been thought of,
-        so thanks again blizz!!!
-    </p>
+    <ul>
+        <li>https://fextralife.com for the data they provide for Diablo II: Resurrected</li>
+        <li>https://d4builds.gg for the data they provide for Diablo IV</li>
+    </ul>
     <p><sub>
         The Diablo logos, and both the Inarius name, and image are trademarks of Blizzard Entertainment, and have merely been used in this
         project to bring a familiar face to the Discord bot.
