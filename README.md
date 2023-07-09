@@ -37,7 +37,8 @@
     for various Diablo titles that come with their respective commands, allow for easy integration into the Diablo Market web application API for trade
     related data, as well as allow Discord users to stay up-to-date on the latest news and information posted by Blizzard Entertainment. Users can enjoy
     lightning fast query based searches for Diablo II & IV item data, skills, aspects, etc. Users can even create parties (Discord voice chat) or join existing ones to
-    fight against the evil that threatens the land of Santuary!
+    fight against the evil that threatens the land of Santuary! Inarius will help users locate the various resources & world bosses throughout Santuary, much like a
+    non-interactive map (prevents hard resource strain on our PC gamer friends!).
 </p>
 
 <details>
