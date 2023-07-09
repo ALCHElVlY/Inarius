@@ -62,6 +62,7 @@
         <li>paragon glyphs</li>
         <li>uniques</li>
         <li>craft</li>
+        <li>locate</li>
         <li>looking for group (lfg)</li>
     </ul>
 </details>
