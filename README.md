@@ -85,21 +85,10 @@
 ## Documentation
 
 <div>
-    <h3>• How to set integration-level slash command permissions</h3>
-    <p>Discord provides server owners a way to override slash command permissions with roles or even single users.
-        Discord also allows you to change which channels allow slash commands to be executed in them, but we will only
-        be focusing on changing the default member permissions.
-    </p>
-    <p>You can achieve this by going into <code>Settings</code> -> <code>Integrations</code> -> <code>Inarius(Manage)</code></p>
-    <img src="https://imgur.com/KY8alQ0.png"></img>
-    <p>On a fresh server, there will be no slash command overrides as seen in the example above.</p>
-    <p>From this menu you can click on a command to update new permissions for it.</p>
-    <img src="https://imgur.com/1yK2Igs.png"></img>
-    <p>After adding your role, or user, click save.</p>
-    <img src="https://imgur.com/S9aBeLS.png"></img>
-    <p>Your screen should look something similar to this.</p>
-    <img src="https://imgur.com/PlUDfIV.png"></img>
-    <p>Congratulations, you have just set your first slash command permission override!</p>
+    <ul>
+        <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/">Welcome</a></li>
+        <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/master/how-to-set-up-integration-level-permissions">How-to: setting up integration-level command permissions</a></li>
+    </ul>
 </div>
 
 
