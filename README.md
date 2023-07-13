@@ -62,9 +62,8 @@
         <li>paragon boards</li>
         <li>paragon glyphs</li>
         <li>uniques</li>
-        <li>craft</li>
-        <li>locate</li>
-        <li>looking for group (lfg)</li>
+        <li>map</li>
+        <li>lfg (looking for group)</li>
     </ul>
 </details>
 
