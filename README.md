@@ -92,13 +92,6 @@
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/ALCHElVlY/Inarius/issues) for a list of known issues, and [project board](https://github.com/ALCHElVlY/Inarius/projects/1) for a list of planned updates, and features.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
