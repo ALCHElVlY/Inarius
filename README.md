@@ -86,8 +86,8 @@
 
 <div>
     <ul>
-        <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/">Welcome</a></li>
-        <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/master/how-to-set-up-integration-level-permissions">How-to: setting up integration-level command permissions</a></li>
+        <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/" target="_blank">Welcome</a></li>
+        <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/master/how-to-set-up-integration-level-permissions" target="_blank">How-to: setting up integration-level command permissions</a></li>
     </ul>
 </div>
 
