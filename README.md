@@ -1,12 +1,3 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -18,9 +9,11 @@
     <a href="https://github.com/ALCHElVlY/Inarius/issues/new?assignees=ALCHElVlY&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
     ·
     <a href="https://github.com/ALCHElVlY/Inarius/issues/new?assignees=ALCHElVlY&labels=feature&projects=&template=feature_request.md&title=%5BFEATURE%5D">Request Feature</a>
+    ·
+    <a href="https://discord.com/api/oauth2/authorize?client_id=855971738930905088&permissions=18700824855696&scope=bot%20applications.commands">Invite to Discord</a>
   </p>
   
-[![][readme-shield]][readme-url]
+![][command-style-shield]
 [![][version-shield]][version-url]
 [![][issues-shield]][issues-url]
 ![][discord-shield]
@@ -30,15 +23,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
 <p>
-    The Inarius Discord bot project is meant to bring everything Diablo related straight to Discord. The bot will offer modules
-    for various Diablo titles that come with their respective commands, allow for easy integration into the Diablo Market web application API for trade
-    related data, as well as allow Discord users to stay up-to-date on the latest news and information posted by Blizzard Entertainment. Users can enjoy
-    lightning fast query based searches for Diablo II & IV item data, skills, aspects, etc. Users can even create parties (Discord voice chat) or join existing ones to
-    fight against the evil that threatens the land of Santuary! Inarius will help users locate the various resources & world bosses throughout Santuary, much like a
-    non-interactive map (prevents hard resource strain on our PC gamer friends!).
+  The Inarius Discord bot project is an immersive and feature-rich experience designed to bring the world of Diablo straight to your Discord server.
+  With its comprehensive modules for various Diablo titles, the bot provides a seamless integration of Diablo-related functionalities, commands, and data.
+  From real-time trade information sourced from the Diablo Market web application API to the latest news and updates from Blizzard Entertainment, Inarius ensures that Discord users are always in the loop.
+  One of the standout features of Inarius is its lightning-fast query-based search capability, allowing users to effortlessly access item data, skills, aspects, and more from Diablo II and Diablo IV.
+  Whether you're looking for that elusive legendary item or need insights into powerful character abilities, Inarius has you covered.
+  Inarius goes beyond just information retrieval and offers a social aspect as well. Users can create and join parties in Discord voice chats, forming alliances to combat the forces of evil that threaten the land of Sanctuary.
+  With Inarius, organizing multiplayer adventures and coordinating strategies has never been easier.
+  Additionally, Inarius serves as a valuable resource locator, providing information on various resources and world bosses scattered throughout Sanctuary. Think of it as a virtual map that helps you navigate the vast Diablo universe without taxing your PC's resources.
+  Immerse yourself in the world of Diablo and let Inarius become your trusted companion in your Discord server. Discover the endless possibilities, uncover hidden treasures, and unite with fellow adventurers in the ultimate battle against darkness!
 </p>
 
 <details>
@@ -120,8 +114,7 @@ Twitter: n/a-->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[readme-shield]: https://img.shields.io/badge/readme%20style-standard-blue.svg?style=plastic
-[readme-url]: https://github.com/ALCHElVlY/Inarius#readme
+[command-style-shield]: https://img.shields.io/badge/Command%20Style-Slash-Blue?logo=discord&logoColor=white&color=blue&style=plastic
 [discord-shield]: https://img.shields.io/discord/1086693147331018852?color=blue&label=Online%20Discord%20Members&style=plastic
 [version-shield]: https://img.shields.io/github/v/tag/ALCHElVlY/Inarius?label=version&style=plastic
 [version-url]: https://github.com/main/ALCHElVlY/Inarius/releases
