@@ -36,7 +36,7 @@
 </p>
 
 <details>
-    <summary>Diablo II: Resurrected Module commands:</summary>
+    <summary><h4>Diablo II: Resurrected Module commands:</h4></summary>
     <ul>
         <li>miscitems</li>
         <li>sets</li>
@@ -50,7 +50,7 @@
 <p>Diablo III Module commands: <code>TBA</code></p>
     
 <details>
-    <summary>Diablo IV Module commands:</summary>
+    <summary><h4>Diablo IV Module commands:</h4></summary>
     <ul>
         <li>aspects</li>
         <li>paragon boards</li>
