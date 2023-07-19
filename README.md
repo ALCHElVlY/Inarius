@@ -58,6 +58,7 @@
         <li>uniques</li>
         <li>map</li>
         <li>lfg (looking for group)</li>
+        <li>craft</li>
     </ul>
 </details>
 
