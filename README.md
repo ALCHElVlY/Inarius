@@ -59,6 +59,7 @@
         <li>map</li>
         <li>lfg (looking for group)</li>
         <li>craft</li>
+        <li>malignant hearts</li>
     </ul>
 </details>
 
