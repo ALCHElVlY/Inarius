@@ -9,8 +9,6 @@
     <a href="https://github.com/ALCHElVlY/Inarius/issues/new?assignees=ALCHElVlY&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
     ·
     <a href="https://github.com/ALCHElVlY/Inarius/issues/new?assignees=ALCHElVlY&labels=feature&projects=&template=feature_request.md&title=%5BFEATURE%5D">Request Feature</a>
-    ·
-    <a href="https://discord.com/api/oauth2/authorize?client_id=855971738930905088&permissions=18700824855696&scope=bot%20applications.commands">Invite to Discord</a>
   </p>
   
 ![][command-style-shield]
