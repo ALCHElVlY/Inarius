@@ -38,11 +38,16 @@ a {
   width: 100%; /* You can adjust this width as needed */
   max-width: 100%;
   overflow: hidden;
+  /* Set the height based on the aspect ratio of the video (16:9 in this example) */
+  padding-top: 56.25%; /* (9 / 16) * 100% = 56.25% */
+  position: relative;
 }
 #background-video {
   width: 100%;
-  height: auto; /* This will maintain the video's aspect ratio */
-  display: block;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 footer {
