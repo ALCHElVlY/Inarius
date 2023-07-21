@@ -114,8 +114,9 @@ Twitter: n/a-->
 ## DISCLAIMER
 <div>
     <p><sub>
-        The Diablo logos, and both the Inarius name, and image are trademarks of Blizzard Entertainment, and have merely been used in this
-        project to bring a familiar face to the Discord bot.
+        The Diablo logos, and both the Inarius name, and image are trademarks of Blizzard Entertainment®, and have merely been used in this
+        project to bring a familiar face to the Discord bot.<br>
+        Blizzard Entertainment is a trademark or registered trademark of Blizzard Entertainment, Inc. in the U.S. and/or other countries. All rights reserved.
     </sub></p>
 </div>
 
