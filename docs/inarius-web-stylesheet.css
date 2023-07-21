@@ -35,10 +35,14 @@ a {
   color: #00BFFF;
 }
 #background-container {
-  width: 100%;
+  width: 100%; /* You can adjust this width as needed */
+  max-width: 100%;
+  overflow: hidden;
 }
 #background-video {
   width: 100%;
+  height: auto; /* This will maintain the video's aspect ratio */
+  display: block;
 }
 
 footer {
