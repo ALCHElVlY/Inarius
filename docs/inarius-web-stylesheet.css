@@ -27,6 +27,9 @@ li {
 a {
   color: #00BFFF;
 }
+#background-video {
+  width: 100%
+}
 
 /* Responsive adjustments */
 @media screen and (max-width: 675px) {
