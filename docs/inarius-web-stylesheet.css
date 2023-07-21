@@ -34,6 +34,12 @@ a {
   width: 100%;
 }
 
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 /* Responsive adjustments */
 @media screen and (max-width: 675px) {
   body {
