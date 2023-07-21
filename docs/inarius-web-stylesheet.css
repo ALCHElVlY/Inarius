@@ -10,6 +10,7 @@ body {
 #home-container {
   display: flex;
   flex-direction: row;
+  gap: 1rem;
   align-items: center;
   justify-content: center;
 }
@@ -44,6 +45,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 5rem 0 2.5rem 0
 }
 
 /* Responsive adjustments */
