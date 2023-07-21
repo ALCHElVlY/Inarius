@@ -37,7 +37,7 @@ a {
 #background-container {
   width: 100%; /* You can adjust this width as needed */
   max-width: 100%;
-  height: 100vh; /* Set the height to 100% of the viewport height */
+  height: 95vh; /* Set the height to 100% of the viewport height */
   overflow: hidden;
   position: relative;
 }
