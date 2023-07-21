@@ -27,8 +27,11 @@ li {
 a {
   color: #00BFFF;
 }
+#background-container {
+  width: 100%;
+}
 #background-video {
-  width: 100%
+  width: 100%;
 }
 
 /* Responsive adjustments */
