@@ -11,6 +11,7 @@ body {
   display: flex;
   flex-direction: row;
   gap: 1rem;
+  height: 125px;
   align-items: center;
   justify-content: center;
 }
