@@ -106,12 +106,18 @@ Twitter: n/a-->
         <li>https://fextralife.com for the data they provide for Diablo II: Resurrected</li>
         <li>https://d4builds.gg for the data they provide for Diablo IV</li>
     </ul>
+</div>
+
+
+
+<!-- DISCLAIMER -->
+## DISCLAIMER
+<div>
     <p><sub>
         The Diablo logos, and both the Inarius name, and image are trademarks of Blizzard Entertainment, and have merely been used in this
         project to bring a familiar face to the Discord bot.
     </sub></p>
 </div>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
