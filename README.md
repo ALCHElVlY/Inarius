@@ -81,6 +81,7 @@
     <ul>
         <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/" target="_blank" rel="noopener noreferrer">Welcome</a></li>
         <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/master/how-to-set-up-integration-level-permissions" target="_blank" rel="noopener noreferrer">How-to: setting up integration-level command permissions</a></li>
+        <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/master/how-to-set-up-diablo-iv-party-system" target="_blank" rel="noopener noreferrer">How-to: setting up the Diablo IV party system</a></li>
     </ul>
 </div>
 
