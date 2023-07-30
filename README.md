@@ -24,6 +24,7 @@
 <p>
   The Inarius Discord bot project is an immersive and feature-rich experience designed to bring the world of Diablo straight to your Discord server.
   With its comprehensive modules for various Diablo titles, the bot provides a seamless integration of Diablo-related functionalities, commands, and data.
+  From real-time trade information sourced from the Diablo Market web application API to the latest news and updates from Blizzard Entertainment, Inarius ensures that Discord users are always in the loop.
   One of the standout features of Inarius is its lightning-fast query-based search capability, allowing users to effortlessly access item data, skills, aspects, and more from Diablo II and Diablo IV.
   Whether you're looking for that elusive legendary item or need insights into powerful character abilities, Inarius has you covered.
   Inarius goes beyond just information retrieval and offers a social aspect as well. Users can create and join parties in Discord voice chats, forming alliances to combat the forces of evil that threaten the land of Sanctuary.
