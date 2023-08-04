@@ -1,0 +1,14 @@
+name: Ask A Question
+description: Ask general questions about this project
+title: "[QUESTION]"
+labels: question
+assignees: ALCHElVlY
+
+body:
+  - type: textarea
+    attributes:
+      label: Question
+      description: "Ask your question, provide details if necessary"
+      placehold: "Be as clear and concise as possible when asking questions (we are not mind readers)."
+    validations:
+      required: true
