@@ -1,0 +1,47 @@
+name: Bug Report
+description: File a bug report
+title: "[BUG]"
+labels: bug
+assignees: ALCHElVlY
+
+body:
+  - type: textarea
+    attributes:
+      label: Bug Description
+      description: "Describe the bug"
+      placeholder: "A clear and concise description of what the bug is."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: "Tell us how to reproduce the bug"
+      placeholder: "Steps to reproduce the behavior:\n1. Go to '...'\n2. Click on '....'\n3. Scroll down to '....'\n4. See error"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: "What is the expected behavior"
+      placeholder: "A clear and concise description of what you expected to happen."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Error logs
+      description: "Relevant error log output"
+      placeholder: "Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks."
+      render: shell
+    validations:
+      required: true
+    
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: "Add additional information you might find useful in resolving the bug"
+      placeholder: "Add any other context about the problem here."
+    validations:
+      required: false
