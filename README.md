@@ -6,9 +6,9 @@
   <h3 align="center">Inarius Discord Companion</h3>
 
   <p align="center">
-    <a href="https://github.com/ALCHElVlY/Inarius/issues/new?assignees=ALCHElVlY&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
+    <a href="https://github.com/ALCHElVlY/Inarius/issues/new?assignees=ALCHElVlY&labels=bug&projects=&template=bug_report.yml&title=%5BBUG%5D">Report Bug</a>
     ·
-    <a href="https://github.com/ALCHElVlY/Inarius/issues/new?assignees=ALCHElVlY&labels=feature&projects=&template=feature_request.md&title=%5BFEATURE%5D">Request Feature</a>
+    <a href="https://github.com/ALCHElVlY/Inarius/issues/new?assignees=ALCHElVlY&labels=feature&projects=&template=feature_request.yml&title=%5BFEATURE%5D">Request Feature</a>
   </p>
   
 ![][command-style-shield]
