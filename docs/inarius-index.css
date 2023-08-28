@@ -30,14 +30,27 @@ video {
 
 #home-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   gap: 1.5rem;
   padding: 1.8rem 20px 1.8rem 20px;
-  margin-top: auto;
+  margin-top: 25%;
   align-items: center;
   justify-content: center;
 }
 
+#home-container a {
+  text-decoration: none;
+}
+
+.mobile-hidden {
+  display: none;
+}
+
+.mobile-text {
+  display: block;
+  font-size: 1.2rem;
+  color: whitesmoke;
+}
 
 #invite-icon,
 #privacy-icon,
@@ -46,16 +59,24 @@ video {
   color: whitesmoke;
   transition: color 0.5s ease-in-out;
 }
-#invite-icon:hover {
+
+#invite-icon:hover,
+#invite-text:hover {
   color: #50C878;
 }
-#privacy-icon:hover {
+
+#privacy-icon:hover,
+#privacy-text:hover {
   color: #942516;
 }
-#discord-icon:hover {
+
+#discord-icon:hover,
+#discord-text:hover {
   color: #7289da;
 }
-#patreon-icon:hover {
+
+#patreon-icon:hover,
+#patreon-text:hover {
   color: #FF424D;
 }
 
@@ -78,13 +99,11 @@ video {
     width: 100%;
     max-width: 100%;
     height: 30vh;
-    object-fit: cover;
-    object-position: 0 0;
   }
 
   #home-container {
-    flex-direction: row;
-    gap: 2rem;
+    flex-direction: column;
+    gap: 0.5rem;
   }
 }
 
@@ -98,13 +117,19 @@ video {
     width: 100%;
     max-width: 100%;
     height: 40vh;
-    object-fit: cover;
-    object-position: 0 0;
   }
 
   #home-container {
     flex-direction: row;
     gap: 2rem;
+  }
+
+  .mobile-hidden {
+    display: unset;
+  }
+
+  .mobile-text {
+    display: none;
   }
 }
 
@@ -117,14 +142,21 @@ video {
     width: 100%;
     max-width: 100%;
     height: 50vh;
-    object-fit: cover;
-    object-position: 0 0;
   }
 
   #home-container {
     flex-direction: row;
     gap: 2rem;
     padding: 1rem 10px 0.8rem 10px;
+    margin-top: 15%;
+  }
+
+  .mobile-hidden {
+    display: unset;
+  }
+
+  .mobile-text {
+    display: none;
   }
 
   #footer-container {
@@ -142,14 +174,21 @@ video {
     width: 100%;
     max-width: 100%;
     height: 60vh;
-    object-fit: cover;
-    object-position: 0 0;
+  }
+
+  .mobile-hidden {
+    display: unset;
+  }
+
+  .mobile-text {
+    display: none;
   }
 
   #home-container {
     flex-direction: row;
     gap: 2rem;
     padding: 1rem 15px 1rem 15px;
+    margin-top: 10%;
   }
 
   #footer-container {
@@ -167,17 +206,25 @@ video {
     width: 100%;
     max-width: 100%;
     height: 70vh;
-    object-fit: cover;
-    object-position: 0 0;
+  }
+
+  .mobile-hidden {
+    display: unset;
+  }
+
+  .mobile-text {
+    display: none;
   }
 
   #home-container {
     flex-direction: row;
     gap: 2rem;
     padding: 1rem 15px 1rem 15px;
+    margin-top: 5%;
   }
 
   #footer-container {
     padding: 1rem 15px 0 15px;
+    margin-top: 1%;
   }
 }
