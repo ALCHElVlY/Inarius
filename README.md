@@ -58,6 +58,7 @@
         <li>lfg (looking for group)</li>
         <li>craft</li>
         <li>malignant hearts</li>
+        <li>vampiric powers</li>
     </ul>
 </details>
 
@@ -103,8 +104,9 @@ Twitter: n/a-->
 
 <div>
     <ul>
-        <li>https://fextralife.com for the data they provide for Diablo II: Resurrected</li>
-        <li>https://d4builds.gg for the data they provide for Diablo IV</li>
+        <li>https://fextralife.com - provides data for Diablo II: Resurrected</li>
+        <li>https://d4builds.gg - provides data for Diablo IV</li>
+        <li>https://www.wowhead.com - provides data via their custom blue tracker RSS feed</li>
     </ul>
 </div>
 
@@ -124,7 +126,7 @@ Twitter: n/a-->
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [command-style-shield]: https://img.shields.io/badge/Command%20Style-Slash-Blue?logo=discord&logoColor=white&color=blue&style=plastic
-[discord-shield]: https://img.shields.io/discord/1086693147331018852?color=blue&label=Online%20Discord%20Members&style=plastic
+[discord-shield]: https://img.shields.io/discord/686731263956090915?color=blue&label=Online%20Discord%20Members&style=plastic
 [version-shield]: https://img.shields.io/github/v/tag/ALCHElVlY/Inarius?label=version&style=plastic
 [version-url]: https://github.com/main/ALCHElVlY/Inarius/releases
 [issues-shield]: https://img.shields.io/github/Inarius/ALCHElVlY/inarius?color=blue&style=plastic
