@@ -93,8 +93,8 @@
 <!-- CONTACT -->
 ## Contact
 
-Email: beskar.labs@outlook.com<br>
-<!-- Website: www.beskarlabs.com<br>
+Email: william.holt90@outlook.com<br>
+<!-- Website: www.will2code.dev<br>
 Facebook: n/a<br>
 Twitter: n/a-->
 
