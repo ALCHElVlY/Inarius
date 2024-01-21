@@ -56,7 +56,8 @@
         <li>craft</li>
         <li>malignant hearts</li>
         <li>vampiric powers</li>
-        <li>world events (<i>coming soon..</i>)</li>
+        <li>construct stones</li>
+        <li>world events</li>
     </ul>
 </details>
 
@@ -81,7 +82,6 @@
     <ul>
         <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/" target="_blank" rel="noopener noreferrer">Welcome</a></li>
         <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/master/how-to-set-up-integration-level-permissions" target="_blank" rel="noopener noreferrer">How-to: setting up integration-level command permissions</a></li>
-        <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/master/how-to-set-up-diablo-iv-party-system" target="_blank" rel="noopener noreferrer">How-to: setting up the Diablo IV party system</a></li>
         <li><a href="https://app.gitbook.com/s/UVsjEmpyynDPHE8PUwZm/master/how-to-set-up-blizztracker-notifications" target="_blank" rel="noopener noreferrer">How-to: set up BlizzTracker notifications</a></li>
     </ul>
 </div>
