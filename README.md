@@ -57,7 +57,6 @@
         <li>malignant hearts</li>
         <li>vampiric powers</li>
         <li>construct stones</li>
-        <li>world events</li>
     </ul>
 </details>
 
