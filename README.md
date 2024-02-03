@@ -27,8 +27,11 @@
   From real-time trade information sourced from the Diablo Market web application API to the latest news and updates from Blizzard Entertainment, Inarius ensures that Discord users are always in the loop.
   One of the standout features of Inarius is its lightning-fast query-based search capability, allowing users to effortlessly access item data, skills, aspects, and more from Diablo II and Diablo IV.
   Whether you're looking for that elusive legendary item or need insights into powerful character abilities, Inarius has you covered.
-  Additionally, Inarius serves as a valuable resource locator, providing information on various resources and world bosses scattered throughout Sanctuary. Think of it as a virtual map that helps you navigate the vast Diablo universe without taxing your PC's resources.
-  Immerse yourself in the world of Diablo and let Inarius become your trusted companion in your Discord server. Discover the endless possibilities, uncover hidden treasures, and unite with fellow adventurers in the ultimate battle against darkness!
+  Additionally, Inarius serves as a valuable resource locator, providing information on various resources and world bosses scattered throughout Sanctuary.
+  Think of it as a virtual map that helps you navigate the vast Diablo universe without taxing your PC's resources.
+  Immerse yourself in the world of Diablo and let Inarius become your trusted companion in your Discord server.
+  Inarius also allows users to stay up to date on the latest Diablo IV world events happening throughout Sanctuary by subscribing to the bots WorldTracker functionality.
+  Discover the endless possibilities, uncover hidden treasures, and unite with fellow adventurers in the ultimate battle against darkness!
 </p>
 
 <details>
