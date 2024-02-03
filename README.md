@@ -29,8 +29,8 @@
   Whether you're looking for that elusive legendary item or need insights into powerful character abilities, Inarius has you covered.
   Additionally, Inarius serves as a valuable resource locator, providing information on various resources and world bosses scattered throughout Sanctuary.
   Think of it as a virtual map that helps you navigate the vast Diablo universe without taxing your PC's resources.
-  Immerse yourself in the world of Diablo and let Inarius become your trusted companion in your Discord server.
   Inarius also allows users to stay up to date on the latest Diablo IV world events happening throughout Sanctuary by subscribing to the bots WorldTracker functionality.
+  Immerse yourself in the world of Diablo and let Inarius become your trusted companion in your Discord server.
   Discover the endless possibilities, uncover hidden treasures, and unite with fellow adventurers in the ultimate battle against darkness!
 </p>
 
