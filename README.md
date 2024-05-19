@@ -107,7 +107,6 @@ Twitter: n/a-->
     <ul>
         <li>https://fextralife.com - provides data for Diablo II: Resurrected</li>
         <li>https://d4builds.gg - provides data for Diablo IV</li>
-        <li>https://www.wowhead.com - provides data via their custom blue tracker RSS feed</li>
     </ul>
 </div>
 
