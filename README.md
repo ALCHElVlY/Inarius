@@ -60,6 +60,7 @@
         <li>malignant hearts</li>
         <li>vampiric powers</li>
         <li>construct stones</li>
+        <li>tempering manuals</li>
     </ul>
 </details>
 
