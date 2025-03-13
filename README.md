@@ -61,6 +61,9 @@
         <li>vampiric powers</li>
         <li>construct stones</li>
         <li>tempering manuals</li>
+        <li>runes</li>
+        <li>witch powers</li>
+        <li>loot table</li>
     </ul>
 </details>
 
